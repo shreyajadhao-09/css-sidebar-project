@@ -104,4 +104,5 @@ a {
 }
 #check:checked ~ .sidebar_menu .btn_two i{
   opacity: 1;
+  
 }
